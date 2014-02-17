@@ -1,0 +1,224 @@
+@CHARSET "ISO-8859-1";
+
+/* Standard Form Section */
+
+div.width_small {
+	width: 20em;
+}
+
+div.width_med {
+	width: 30em;
+}
+
+div.width_large {
+	width: 40em;
+}
+
+div.std_form {
+	margin: 1em 0;
+	padding: 0; 
+	background-color: #FFF;
+}
+
+div.std_form form {
+	margin: 0;
+	padding: 0;
+	background-color: #FFF;
+}
+
+div.std_form div.form_title {
+	display: block;
+	margin: 1px;
+	padding: .3em;
+	text-align: center;
+	font-weight: bold;
+	color: #FFF;
+	background-color: #AAA;
+}
+
+div.std_form div.form_content {
+	padding: 0;
+	margin: 0;
+}
+
+div.std_form fieldset {
+	margin: 1em 0;
+	padding: 0 0 0 5px;
+	border-style: solid;
+	border-width: 1px 0 0;
+	border-color: #AAA;
+}
+
+div.std_form fieldset legend {
+	border: 0 solid: #666;
+	padding: 3px;
+	color: #006633;
+}
+
+div.std_form  div.field_row {
+	margin: 0;
+	padding: .5em;
+	clear: both;
+}
+
+div.std_form  fieldset.field_row {
+	margin: 0;
+	padding: .5em;
+	border-bottom: 2px solid #FFF;
+	clear: both;
+	border: none;
+}
+
+div.std_form fieldset.field_row legend {
+	float: left;
+	width: 8em;
+	vertical-align: center;
+	padding: 0;
+	margin: .2em 1em 0 0;
+	text-align: right;
+	background: none;
+	color: #000;
+	white-space: normal;
+	font-weight: normal;
+}
+
+div.std_form label.preField {
+	float: left;
+	width: 8em;
+	vertical-align: center;
+	padding: 0;
+	margin: .2em 1em 0 0;
+	text-align: right;
+	font-weight: normal;
+	clear: left;
+}
+
+div.std_form span.dsp_value {
+	padding-top: .2em;
+	display: inline-block;
+}
+
+div.std_form span.valid_error {
+	height: 1em;
+	color: #C60000;	
+	margin: 0 0 0 9em;
+	display: block;
+	clear: left;
+}
+
+div.std_form span.valid_error p {
+	margin: 0;
+	padding: 0;
+}
+
+div.std_form div.actions {
+	text-align: right;
+	margin: 1em;
+	padding: 0;
+}
+
+div.std_form div.actions input.primaryAction {
+	font-size: 1em;	
+	font-family: helvetica;
+	font-weight: bold;
+}
+
+div.std_form div.actions input.secondAction {
+	font-size: 1em;	
+	font-family: helvetica;
+}
+
+div.std_form span.form_error {
+	color: #C60000;
+}
+
+div.std_form textarea.desc {
+	width: 20em;
+	height: 4.2em;	
+}
+	
+div.std_form input.name {
+	width: 15em;
+	text-align: left;
+}
+
+div.std_form input.currency {
+	width: 15em;
+	text-align: right;	
+}
+
+div.std_form input.amount {
+	width: 15em;
+	text-align: right;	
+}
+
+div.std_form input.date {
+	width: 5em;
+	text-align: right;
+}
+
+div.std_form table.form_table {
+	table-layout: auto;
+	margin: 0;
+	padding: 0;
+	border: 0 solid #666;
+	/* background-color: #FFF; */
+	width: 100%;
+}
+
+div.std_form table.form_table tr.odd {
+	background-color: #F0FBD0;
+}
+
+div.std_form table.form_table th {
+	font-size: 1em;
+	font-weight: bold;
+	background-color: #6F6F6F;
+	margin: 2px;
+	padding: 3px;	
+	text-align: center;
+	color: #FFF;
+}
+
+div.std_form table.form_table th.action_column {
+	background: none;	
+}
+
+div.std_form table.form_table td {
+	margin: 2px;
+	padding: 3px;
+	font-size: 1em;
+}
+
+div.std_form div.field_grouping {
+	display: block;
+	margin: 0 0 0 9em;
+	padding-top: .2em;
+	position: relative;
+}
+
+div.std_form a.ui_check, div.std_form a.ui_uncheck {
+	font-size: .7em;
+	float: right;
+	margin: 0 0 0 .5em;
+	display: none;
+}
+
+div.std_form input[type="text"]:focus, div.std_form textarea:focus, div.std_form input[type="password"]:focus {
+	border: 2px solid #063000;
+}
+
+div.std_form input[readonly='readonly'], div.std_form textarea[readonly='readonly'] {
+	background-color: #EEE;
+	color: #666;
+}
+
+a.ui_check:hover, a.ui_uncheck:hover {
+	color: #C60000;
+}
+
+div.std_form span.right_label {
+	padding: 0 0 0 1em;
+}
+
+/* End Standard Form Section */
