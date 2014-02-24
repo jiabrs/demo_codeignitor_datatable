@@ -4,7 +4,7 @@ require_once('Db2.php');
 /**
  * Codeigniter DB2 class. Extends DB2 class
  * for codeigniter compatibility
- * @author cbrogan
+ *  cbrogan
  *
  */
 class Db2_ci extends Db2 {

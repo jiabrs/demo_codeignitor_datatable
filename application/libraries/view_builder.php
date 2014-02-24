@@ -4,7 +4,7 @@
  *
  * Loads views and outputs to browser
  *
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage Custom Libraries
  *

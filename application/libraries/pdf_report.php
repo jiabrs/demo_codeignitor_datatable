@@ -1,7 +1,7 @@
 <?php
 /**
  * TCPDF hook for codeigniter
- * @author cbrogan
+ *  cbrogan
  *
  */
 require_once('/www/tcpdf/config/lang/eng.php');

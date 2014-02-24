@@ -2,7 +2,7 @@
 /**
  * Contract Class
  *
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage controllers
  *

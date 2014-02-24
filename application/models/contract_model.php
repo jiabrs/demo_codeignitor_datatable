@@ -4,7 +4,7 @@
  * 
  * Handles contract data
  * 
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage models
  *

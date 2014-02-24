@@ -2,7 +2,7 @@
 /**
  * Handles Role maintenance
  * 
- * @author cbrogan
+ *  cbrogan
  * @package ctm_cma
  * @subpackage Controllers
  */

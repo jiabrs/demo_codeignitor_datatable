@@ -5,7 +5,7 @@
  *
  * Provides ldap tools specific to CCBCU environment
  *
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage Custom Libraries
  *

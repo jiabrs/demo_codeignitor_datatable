@@ -4,7 +4,7 @@
  *
  * Testing and Designing template for application
  *
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage controllers
  *

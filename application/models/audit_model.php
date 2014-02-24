@@ -2,7 +2,7 @@
 /**
  * Audit_model Class
  *
- * @author Eric Nies <enies@nsc-inc.com>
+ *  Eric Nies <enies@nsc-inc.com>
  * @package ctm_cma
  * @subpackage models
  *

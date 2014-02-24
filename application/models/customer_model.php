@@ -2,7 +2,7 @@
 /**
  * Class Customer_model
  * 
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage models
  */

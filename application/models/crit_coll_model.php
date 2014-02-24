@@ -4,7 +4,7 @@
  * 
  * Retrieves element criteria related info from db
  * 
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage models
  *

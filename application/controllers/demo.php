@@ -4,7 +4,7 @@
  *
  * Used to demo non-working interfaces
  *
- * @author cbrogan
+ *  cbrogan
  * @package ctm_cma
  * @subpackage Controllers
  *

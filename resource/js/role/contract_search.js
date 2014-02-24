@@ -1,5 +1,5 @@
 /**
- * @author cbrogan
+ *  cbrogan
  */
 $(document).ready(function(){
 	

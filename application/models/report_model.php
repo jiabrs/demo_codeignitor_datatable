@@ -2,7 +2,7 @@
 /**
  * Report_model class
  * 
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage models
  */

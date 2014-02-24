@@ -5,7 +5,7 @@
  *
  * Authorizes user access to specific resources
  *
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage Custom Libraries
  *

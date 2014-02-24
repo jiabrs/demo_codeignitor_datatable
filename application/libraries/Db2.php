@@ -5,7 +5,7 @@
  * Provides basic query functionality
  * from i5 databases
  * 
- * @author cbrogan
+ *  cbrogan
  *
  */
 class Db2 {

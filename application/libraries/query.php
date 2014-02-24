@@ -2,7 +2,7 @@
 /**
  * Constructs queries
  * 
- * @author Chad Brogan <chadbrogan@ccbcu.com>
+ *   
  * @package ctm_cma
  * @subpackage libraries
  *

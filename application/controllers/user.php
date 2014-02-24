@@ -4,7 +4,7 @@
  *
  * Handles User management, authorization, and ldap integration
  *
- * @author cbrogan
+ *  cbrogan
  * @package ctm_cma
  * @subpackage Controllers
  *
